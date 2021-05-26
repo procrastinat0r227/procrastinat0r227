@@ -1,7 +1,15 @@
-yo im nickel (aka procrastinat0r227)
+### hey! my name is nickel
 
-im trying to learn this but im not good at it yet
+links:
+* [Steam](https://steamcommunity.com/id/nickelulz)
+* [Youtube](https://www.youtube.com/channel/UCztEQkBZUKZr7d4QEeKzwoA)
+* [GitLab](https://gitlab.com/adimeadozen)
+* [StackOverFlow](https://stackoverflow.com/users/14091128/nickel)
 
-the languages i have a beginner's handle on are python, java, javascript/node, c#, and lua
+languages (so far):
+* node-javascript (my main lang)
+* java
+* python (minimal)
+* c# (minimal)
 
-my profile isnt big yet but i hope to fill it with a bunch of cool projects in the future :-)
+enjoy your stay ig
