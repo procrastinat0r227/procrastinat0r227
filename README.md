@@ -7,9 +7,8 @@ links:
 * [StackOverFlow](https://stackoverflow.com/users/14091128/nickel)
 
 languages (so far):
-* node-javascript (my main lang)
+* nodejs (a bit)
 * java
-* python (minimal)
-* c# (minimal)
+* python (barely)
 
 enjoy your stay ig
