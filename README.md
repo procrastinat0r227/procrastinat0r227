@@ -1,4 +1,4 @@
-### hey! my name is nickel
+### hello, friend
 
 links:
 * [Steam](https://steamcommunity.com/id/nickelulz)
@@ -6,9 +6,11 @@ links:
 * [GitLab](https://gitlab.com/adimeadozen)
 * [StackOverFlow](https://stackoverflow.com/users/14091128/nickel)
 
-languages (so far):
-* nodejs (a bit)
+languages i know/am very familiar with (so far):
+* nodejs
 * java
-* python (barely)
+* c#
 
-enjoy your stay ig
+languages i have learned/used a bit but do not consider "knowing":
+* python
+* c and c++
