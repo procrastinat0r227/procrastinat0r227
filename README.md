@@ -6,11 +6,11 @@ links:
 * [GitLab](https://gitlab.com/adimeadozen)
 * [StackOverFlow](https://stackoverflow.com/users/14091128/nickel)
 
-languages i know/am very familiar with (so far):
+languages i am familiar with (so far):
 * nodejs
 * java
-* c#
 
 languages i have learned/used a bit but do not consider "knowing":
 * python
 * c and c++
+* c#
