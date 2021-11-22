@@ -3,7 +3,7 @@
 links:
 * [Steam](https://steamcommunity.com/id/nickelulz)
 * [Youtube](https://www.youtube.com/channel/UCztEQkBZUKZr7d4QEeKzwoA)
-* [GitLab](https://gitlab.com/adimeadozen)
+* [GitLab](https://gitlab.com/adimeadozen) ==> I do not use gitlab!
 * [StackOverFlow](https://stackoverflow.com/users/14091128/nickel)
 
 languages i am familiar with (so far):
