@@ -1,5 +1,7 @@
 ### hello, friend
 
+![views](https://komarev.com/ghpvc/?username=nickelulz&color=brightgreen)
+
 links:
 * [Steam](https://steamcommunity.com/id/nickelulz)
 * [Youtube](https://www.youtube.com/channel/UCztEQkBZUKZr7d4QEeKzwoA)
