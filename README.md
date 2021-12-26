@@ -11,9 +11,9 @@ links:
 languages i am familiar with (so far):
 * nodejs (server-side typescript and javascript)
 * java
+* web javascript/html/css
 
 languages i have learned/used a bit but do not consider "knowing":
 * python
 * c and c++
 * c#
-* web javascript/html/css
