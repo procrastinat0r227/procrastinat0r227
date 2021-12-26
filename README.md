@@ -9,10 +9,11 @@ links:
 * [StackOverFlow](https://stackoverflow.com/users/14091128/nickel)
 
 languages i am familiar with (so far):
-* nodejs
+* nodejs (server-side typescript and javascript)
 * java
 
 languages i have learned/used a bit but do not consider "knowing":
 * python
 * c and c++
 * c#
+* web javascript/html/css
