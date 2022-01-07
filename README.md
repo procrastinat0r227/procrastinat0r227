@@ -1,19 +1,16 @@
-### hello, friend
-
+# take a peek
 ![views](https://komarev.com/ghpvc/?username=nickelulz&color=brightgreen)
+amateur dev. i only make projects i find fun.
 
-links:
-* [Steam](https://steamcommunity.com/id/nickelulz)
-* [Youtube](https://www.youtube.com/channel/UCztEQkBZUKZr7d4QEeKzwoA)
-* [GitLab](https://gitlab.com/adimeadozen) ==> I do not use gitlab!
-* [StackOverFlow](https://stackoverflow.com/users/14091128/nickel)
+[Steam](https://steamcommunity.com/id/nickelulz)
+[Youtube](https://www.youtube.com/channel/UCztEQkBZUKZr7d4QEeKzwoA)
+[StackOverFlow](https://stackoverflow.com/users/14091128/nickel)
 
-languages i am familiar with (so far):
-* nodejs (server-side typescript and javascript)
-* java
-* web javascript/html/css
+### familiarity info
 
-languages i have learned/used a bit but do not consider "knowing":
-* python
-* c and c++
-* c#
+* java -> intermediate
+* nodejs -> intermediate, but depends on which library im using
+* js/html/css -> beginner
+* python -> slim to none
+* c and c++ -> slim to none
+* c# -> slim to none
