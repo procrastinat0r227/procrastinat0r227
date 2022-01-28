@@ -8,3 +8,4 @@ amateur dev. i only make projects i find fun.
 [StackOverFlow](https://stackoverflow.com/users/14091128/nickel)
 
 i mainly only work in java or typescript. some html/js/css too
+c stuff too in the works
