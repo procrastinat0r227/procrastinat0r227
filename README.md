@@ -9,7 +9,7 @@ basic information about me.
 For more detailed information about me, I suggest you go to [my website](https://nickelulz.github.io). 
 (Which is actually hosted right here, the source code can be found in [it's repository](https://github.com/nickelulz/nickelulz.github.io).)
 
-## Some technologies I have used:
+# Some technologies I have used:
 
 I have worked with each of the following:
 
