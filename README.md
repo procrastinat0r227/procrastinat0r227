@@ -22,18 +22,18 @@ I have worked with each of the following:
 - Apache PdfBox
 - MIT JWI (Java Wordnet Interface)
 
-### Node.JS
+### Node.JS:
 - Javascript & Typescript
 - Express
 - Axios
 - Log4JS
 - Discord.JS
 
-### C
+### C:
 - LibHTTP
 - JSON-C
 
-### OTHER
+### OTHER:
 - HTML/CSS/Javascript (Client Side Web Development)
 - Full Stack Web Development using (HTML/JS/CSS/NodeJS/Express -> NodeJS/JSON), (DiscordJS/NodeJS/Express -> Java/GSON), and (NodeJS/Express -> C/JSON-C)
 
