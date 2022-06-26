@@ -9,8 +9,6 @@ basic information about me.
 For more detailed information about me, I suggest you go to [my website](https://nickelulz.github.io). 
 (Which is actually hosted right here, the source code can be found in [it's repository](https://github.com/nickelulz/nickelulz.github.io).)
 
-The main languages I work with are **java** and **node.js**, but I also know html, css, client-sided javascript, and c.
-
 ## Some technologies I have used:
 
 I have worked with each of the following:
