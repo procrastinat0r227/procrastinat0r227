@@ -35,7 +35,7 @@ I have worked with each of the following:
 
 ### OTHER:
 - HTML/CSS/Javascript (Client Side Web Development)
-- Full Stack Web Development using (HTML/JS/CSS/NodeJS/Express -> NodeJS/JSON), (DiscordJS/NodeJS/Express -> Java/GSON), and (NodeJS/Express -> C/JSON-C)
+- Full Stack Web Development using (HTML/JS/CSS/NodeJS/Express -> NodeJS/JSON), (DiscordJS/NodeJS/Express -> Java/GSON), and (HTML/JS/CSS/NodeJS/Express -> C/JSON-C)
 
 # Various Links
 
