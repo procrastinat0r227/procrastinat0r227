@@ -30,8 +30,9 @@ I have worked with each of the following:
 - Discord.JS
 
 ### C:
-- LibHTTP
+- LibCurl
 - JSON-C
+- POSIX WebSockets
 
 ### OTHER:
 - HTML/CSS/Javascript (Client Side Web Development)
