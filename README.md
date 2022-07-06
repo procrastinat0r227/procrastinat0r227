@@ -32,7 +32,7 @@ I have worked with each of the following:
 ### C:
 - LibCurl
 - JSON-C
-- POSIX WebSockets
+- PICO (POSIX Websocket HTTP Server)
 
 ### OTHER:
 - HTML/CSS/Javascript (Client Side Web Development)
