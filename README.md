@@ -13,4 +13,4 @@ For more detailed information about me, I suggest you go to [my website](https:/
 
 [StackOverFlow](https://stackoverflow.com/users/14091128/nickel) (I do not use StackOverFlow often!)
 
-[My Website](https://nickelulz.github.io) (Currently broken)
+[My Website](https://nickelulz.github.io)
